@@ -1,2 +1,2 @@
 # reactdashboard
-dashboard feito com creat react app
+dashboard feito com creat react app, tailwind
